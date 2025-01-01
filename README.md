@@ -1,4 +1,4 @@
-# Rofi config
+# Rofi
 
 [Documentation](https://wiki.archlinux.org/title/Rofi)
 
