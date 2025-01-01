@@ -7,3 +7,4 @@
 - [x] Ajouter les raccourcis nativement
 - [ ] Autoriser les calculs via la recherche
 - [ ] Autoriser la creation de fichier/document via l'interface
+- [ ] Recherche internet/Suggestion depuis l'interface
