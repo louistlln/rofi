@@ -6,4 +6,4 @@
 
 - [x] Ajouter les raccourcis nativement
 - [ ] Autoriser les calculs via la recherche
-- [ ] Autoriser la creation de fichier/document via la recherche
+- [ ] Autoriser la creation de fichier/document via l'interface
