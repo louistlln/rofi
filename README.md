@@ -1,3 +1,5 @@
+# Rofi config
+
 https://wiki.archlinux.org/title/Rofi
 
 ## A faire
